@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\triangulo\triangulo\bin\Debug\triangulo.exe.config
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\triangulo\triangulo\bin\Debug\triangulo.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\triangulo\triangulo\bin\Debug\triangulo.pdb
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\triangulo\triangulo\obj\Debug\triangulo.csproj.AssemblyReference.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\triangulo\triangulo\obj\Debug\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\triangulo\triangulo\obj\Debug\triangulo.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\triangulo\triangulo\obj\Debug\triangulo.pdb

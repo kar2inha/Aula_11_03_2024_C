@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\trabalhaadas\trabalhaadas\bin\Debug\trabalhaadas.exe.config
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\trabalhaadas\trabalhaadas\bin\Debug\trabalhaadas.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\trabalhaadas\trabalhaadas\bin\Debug\trabalhaadas.pdb
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\trabalhaadas\trabalhaadas\obj\Debug\trabalhaadas.csproj.AssemblyReference.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\trabalhaadas\trabalhaadas\obj\Debug\trabalhaadas.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\trabalhaadas\trabalhaadas\obj\Debug\trabalhaadas.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\trabalhaadas\trabalhaadas\obj\Debug\trabalhaadas.pdb

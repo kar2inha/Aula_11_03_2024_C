@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\imc\imc\bin\Debug\imc.exe.config
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\imc\imc\bin\Debug\imc.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\imc\imc\bin\Debug\imc.pdb
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\imc\imc\obj\Debug\imc.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\imc\imc\obj\Debug\imc.pdb

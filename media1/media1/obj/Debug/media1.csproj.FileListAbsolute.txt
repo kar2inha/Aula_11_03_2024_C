@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\media1\media1\bin\Debug\media1.exe.config
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\media1\media1\bin\Debug\media1.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\media1\media1\bin\Debug\media1.pdb
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\media1\media1\obj\Debug\media1.csproj.AssemblyReference.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\media1\media1\obj\Debug\media1.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\media1\media1\obj\Debug\media1.exe
+C:\Users\karla\OneDrive\Área de Trabalho\Aula_26_02_2024\media1\media1\obj\Debug\media1.pdb
